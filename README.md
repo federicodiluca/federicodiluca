@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/federico-di-luca-ing/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin" />
   </a>
-  <a href="https://open.spotify.com/user/11144586313?si=5edb9020ba384e18" target="_blank">
+  <a href="https://open.spotify.com/user/11144586313" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/68862675/167297282-a1fc8e25-3232-4bf3-9c71-0e9a66c3fb38.png" height="30" width="30" alt="spotify" />
   </a>
   <a href="https://instagram.com/federicodiluca/" target="_blank">
