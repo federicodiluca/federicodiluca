@@ -34,7 +34,7 @@ As a teacher, I'm particularly interested in creating practical and interactive 
 ---
 
 <p align="center">
-  I worked on **machine learning applied to UWB signals**, with a focus on human being detection in Non-Line-of-Sight environments.  
+  I worked on <strong>machine learning applied to UWB signals</strong>, with a focus on human being detection in Non-Line-of-Sight environments.  
 </p>
 <p align="center">
   Check out my paper: <br/>
