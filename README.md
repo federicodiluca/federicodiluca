@@ -8,7 +8,13 @@
 </p>
 -->
 
-<p align="center">Computer Science Teacher and .NET Technical Leader based in Italy</p>
+I'm a **Computer Science Teacher and Software Developer** with a background in **Electronic and Biomedical Engineering**.  
+My main areas of interest include **software development, web technologies, databases, computer networks and computer science education**.
+
+I mainly work with the **.NET ecosystem and C#**, while also developing projects with technologies such as **JavaScript, TypeScript, React, Python, C/C++, Java, SQL and PHP**.
+
+As a teacher, I'm particularly interested in creating practical and interactive learning experiences that help students understand computer science by actually building things.
+
 <!-- <p align="center">🌍🐶🖨️⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️</p> -->
 <p align="center">
   <a href="https://federicodiluca.github.io" target="_blank">
@@ -18,15 +24,18 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin" />
   </a>
   <a href="https://open.spotify.com/user/11144586313" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/68862675/167297282-a1fc8e25-3232-4bf3-9c71-0e9a66c3fb38.png" height="30" width="30" alt="spotify" />
+    <img align="center" src="https://cdn.simpleicons.org/spotify" height="30" width="30" alt="spotify" />
   </a>
   <a href="https://instagram.com/federicodiluca/" target="_blank">
-    <img align="center" src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" height="30" width="30" alt="instagram" />
+    <img align="center" src="https://cdn.simpleicons.org/instagram" height="30" width="30" alt="instagram" />
   </a>
 </p>
 
 ---
 
+<p align="center">
+  I worked on **machine learning applied to UWB signals**, with a focus on human being detection in Non-Line-of-Sight environments.  
+</p>
 <p align="center">
   Check out my paper: <br/>
   <a href="https://www.mdpi.com/1507940" target="_blank">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
