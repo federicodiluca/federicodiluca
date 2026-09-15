@@ -3,8 +3,8 @@
 </p>
 
 <!---
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=federicodiluca&color=blue&style=flat-square" alt="fedl95 profile views" />
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=federicodiluca&color=blue&style=flat-square" alt="federicodiluca profile views" />
 </p>
 -->
 
@@ -34,11 +34,11 @@ As a teacher, I'm particularly interested in creating practical and interactive 
 ---
 
 <p align="center">
-  I worked on <strong>machine learning applied to UWB signals</strong>, with a focus on human being detection in Non-Line-of-Sight environments.  
+  I worked on <strong>machine learning applied to UWB signals</strong>, with a focus on human being detection in Non-Line-of-Sight environments.
 </p>
 <p align="center">
   Check out my paper: <br/>
-  <a href="https://www.mdpi.com/1507940" target="_blank">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
+  <a href="https://www.mdpi.com/1424-8220/22/4/1656" target="_blank">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
 </p>
 
 ---
@@ -49,31 +49,35 @@ As a teacher, I'm particularly interested in creating practical and interactive 
 </p>
 -->
 
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="net" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="net-core" width="40" height="40"/> 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="net" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="net-core" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualvs-code" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio-code" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="my-sql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
 <p align="center">
   <img height="140px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=html,css">
   <!-- <img height="120px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs" /> -->
-  
+
   <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
     <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" alt="last listened on spotify"/>
   </a> -->
