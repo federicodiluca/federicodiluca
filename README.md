@@ -28,6 +28,11 @@ As a teacher, I'm particularly interested in creating practical and interactive 
   </a>
   <a href="https://instagram.com/federicodiluca/" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/instagram" height="30" width="30" alt="instagram" />
+  </a>  
+  <br/>
+  <br/>Play Vocabe!<br/>
+  <a href="https://federicodiluca.github.io/vocabe" target="_blank">
+    <img align="center" src="https://federicodiluca.github.io/vocabe/favicon.svg" height="30" width="30" alt="vocabe" />
   </a>
 </p>
 
