@@ -1,90 +1,154 @@
+<h1 align="center">Hi, I'm Federico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px" /></h1>
+
 <p align="center">
-  <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> </h1>
+  <b>Freelance Software Developer &amp; Computer Science Teacher</b><br/>
+  Custom software development, technical consulting, programming education and training for companies, schools and universities.
 </p>
 
-<!---
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=federicodiluca&color=blue&style=flat-square" alt="federicodiluca profile views" />
-</p>
--->
-
-I'm a **Computer Science Teacher and Software Developer** with a background in **Electronic and Biomedical Engineering**.  
-My main areas of interest include **software development, web technologies, databases, computer networks and computer science education**.
-
-I mainly work with the **.NET ecosystem and C#**, while also developing projects with technologies such as **JavaScript, TypeScript, React, Python, C/C++, Java, SQL and PHP**.
-
-As a teacher, I'm particularly interested in creating practical and interactive learning experiences that help students understand computer science by actually building things.
-
-<!-- <p align="center">🌍🐶🖨️⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️</p> -->
 <p align="center">
   <a href="https://federicodiluca.github.io" target="_blank">
-    <img align="center" src="https://federicodiluca.github.io/favicon.ico" height="30" width="30" alt="personal website" />
-  </a>
+    <img align="center" src="https://federicodiluca.github.io/favicon.svg" height="30" width="30" alt="personal website" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/federico-di-luca-ing/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin" />
-  </a>
+  </a>&nbsp;
   <a href="https://open.spotify.com/user/11144586313" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/spotify" height="30" width="30" alt="spotify" />
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/federicodiluca/" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/instagram" height="30" width="30" alt="instagram" />
-  </a>  
+  </a>
+  <!--
   <br/>
   <br/>Play Vocabe!<br/>
   <a href="https://federicodiluca.github.io/vocabe" target="_blank">
     <img align="center" src="https://federicodiluca.github.io/vocabe/favicon.svg" height="30" width="30" alt="vocabe" />
   </a>
+  -->
 </p>
 
 ---
 
-<p align="center">
-  I worked on <strong>machine learning applied to UWB signals</strong>, with a focus on human being detection in Non-Line-of-Sight environments.
-</p>
-<p align="center">
-  Check out my paper: <br/>
-  <a href="https://www.mdpi.com/1424-8220/22/4/1656" target="_blank">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
-</p>
+<h2><img src="./assets/icons/person.svg" height="32" align="absmiddle" />&nbsp;&nbsp;About me</h2>
 
----
+I'm a **Computer Science teacher** and former **.NET Technical Leader** with 5+ years of experience building web solutions for Brand, Marketing and E-commerce clients. I've led development teams, designed software architectures and managed end-to-end IT projects.
+
+Today I combine technical expertise with a strong passion for **education**: I teach Computer Science in high school and provide **technical consulting and training** for companies building or scaling their development teams. I love creating practical, interactive learning experiences where students understand computer science by actually building things.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/cap.svg" width="40" /><br/><b>110 cum laude</b><br/>MSc in Electronic &amp; Telecommunications Engineering, Bologna</td>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/radar.svg" width="40" /><br/><b>Research</b><br/>Human detection with UWB radar, published in MDPI Sensors</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/team.svg" width="40" /><br/><b>Technical Leader</b><br/>Leading .NET development teams</td>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/board.svg" width="40" /><br/><b>Teacher</b><br/>Computer Science in high school, since 2024</td>
+  </tr>
+</table>
+
+<h2><img src="./assets/icons/sparkle.svg" height="32" align="absmiddle" />&nbsp;&nbsp;What I do</h2>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/code.svg" width="40" /><br/><b>Software Development</b><br/>Backend architecture, web applications, system design and technical consulting for startups and established companies.</td>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/cap.svg" width="40" /><br/><b>Technical Training</b><br/>Programming courses, computer science education and team upskilling in modern technologies and best practices.</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/factory.svg" width="40" /><br/><b>Industrial Automation</b><br/>SCADA systems, PLC programming and automation solutions for manufacturing and warehouse management.</td>
+    <td align="center" valign="top" width="50%"><img src="./assets/icons/neural.svg" width="40" /><br/><b>Machine Learning</b><br/>ML models for classification, regression and predictive analytics. Research and development support.</td>
+  </tr>
+</table>
+
+<h2><img src="./assets/icons/rocket.svg" height="32" align="absmiddle" />&nbsp;&nbsp;Featured projects</h2>
+
+Free and open source tools, born from a real need and polished until they could be useful to others too.
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://federicodiluca.github.io/projects/vocabe.svg" width="48" height="48" alt="Vocabe" /><br/>
+      <b><a href="https://federicodiluca.github.io/vocabe/">Vocabe</a></b><br/>
+      <i>One Italian word a day</i><br/><br/>
+      Grow your Italian vocabulary with a daily word, its meaning, examples and etymology, plus spaced-repetition review. Offline, no account, no server.<br/><br/>
+      <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
+      <a href="https://federicodiluca.github.io/vocabe/">Play</a> · <a href="https://github.com/federicodiluca/Vocabe">Code</a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://federicodiluca.github.io/projects/school-feed-monitor.svg" width="48" height="48" alt="School Feed Monitor" /><br/>
+      <b><a href="https://federicodiluca.github.io/school-feed-monitor/">School Feed Monitor</a></b><br/>
+      <i>Italian school notices, on Telegram</i><br/><br/>
+      Monitors USR, USP and MIM websites and feeds, delivering keyword alerts and daily digests on Telegram. Self-hosted, with per-user sources.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d0b1f?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/SQLite-0d0b1f?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Telegram-0d0b1f?style=flat-square&logo=telegram" /><br/><br/>
+      <a href="https://federicodiluca.github.io/school-feed-monitor/">Discover</a> · <a href="https://github.com/federicodiluca/school-feed-monitor">Code</a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://federicodiluca.github.io/projects/la-scimmia-vince.svg" width="48" height="48" alt="La Scimmia Vince" /><br/>
+      <b><a href="https://federicodiluca.github.io/la-scimmia-vince/">La Scimmia Vince</a></b><br/>
+      <i>Honest SuperEnalotto statistics</i><br/><br/>
+      Every draw since 1997, put to real statistical tests. The verdict never changes: chance has no memory, and a random monkey does as well as any "strategy".<br/><br/>
+      <img src="https://img.shields.io/badge/pandas-0d0b1f?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-0d0b1f?style=flat-square&logo=scipy" /> <img src="https://img.shields.io/badge/Astro-0d0b1f?style=flat-square&logo=astro" /><br/><br/>
+      <a href="https://federicodiluca.github.io/la-scimmia-vince/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
+    </td>
+  </tr>
+</table>
+
+<h2><img src="./assets/icons/paper.svg" height="32" align="absmiddle" />&nbsp;&nbsp;Research</h2>
+
+> **[Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models](https://www.mdpi.com/1424-8220/22/4/1656)**
+> <sub>MDPI · Sensors · February 2022</sub>
+>
+> Human detection in Non-Line-of-Sight conditions using ultra-wideband radar, through a measurement campaign in real environments with different body orientations, obstacle materials and radar-obstacle distances, evaluating the accuracy of several machine learning models.
 
 <!--
-<p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px">
-</p>
+<h2><img src="./assets/icons/route.svg" height="32" align="absmiddle" />&nbsp;&nbsp;Career path</h2>
+
+<img src="./assets/icons/dot-work.svg" width="10" /> Work &nbsp;&nbsp; <img src="./assets/icons/dot-edu.svg" width="10" /> Education
+
+| | When | What | Where |
+|:-:|---|---|---|
+| <img src="./assets/icons/dot-work.svg" width="12" /> | 2025&nbsp;–&nbsp;now | **Computer Science Teacher** | ISISS "P. Gobetti - A. De Gasperi" |
+| <img src="./assets/icons/dot-work.svg" width="12" /> | 2024&nbsp;–&nbsp;2025 | **Computer Science Teacher & STEM Trainer** | Liceo Scientifico Statale G. Torelli |
+| <img src="./assets/icons/dot-work.svg" width="12" /> | 2021&nbsp;–&nbsp;2024 | **Technical Leader** | Web agency |
+| <img src="./assets/icons/dot-work.svg" width="12" /> | 2020&nbsp;–&nbsp;2021 | **Automation Developer** | Industrial automation company |
+| <img src="./assets/icons/dot-edu.svg" width="12" /> | 2017&nbsp;–&nbsp;2019 | **MSc in Electronic & Telecommunications Engineering** · 110 L/110 | University of Bologna |
+| <img src="./assets/icons/dot-edu.svg" width="12" /> | 2018&nbsp;–&nbsp;2019 | **Erasmus** | Universitat Politècnica de Catalunya, Barcelona |
+| <img src="./assets/icons/dot-edu.svg" width="12" /> | 2014&nbsp;–&nbsp;2017 | **BSc in Biomedical Engineering** · 109/110 | University of Bologna |
 -->
 
+<h2><img src="./assets/icons/layers.svg" height="32" align="absmiddle" />&nbsp;&nbsp;Tech stack</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="net" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="net-core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio-code" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="my-sql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=html,css">
-  <!-- <img height="120px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs" /> -->
-
-  <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
-    <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" alt="last listened on spotify"/>
-  </a> -->
+  <img height="150px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&hide=html,css&bg_color=0d0b1f&title_color=c4b5fd&text_color=ece9f7&border_color=2a2450&border_radius=12" alt="Top languages" />
 </p>
 
+---
+
+<p align="center">
+  <b>Ready to work together?</b><br/>
+  Whether you need software development, technical consulting or training, I'm available for project-based collaborations.<br/><br/>
+  <a href="https://federicodiluca.github.io/en/contact/"><img src="https://img.shields.io/badge/Get_in_touch-8b5cf6?style=for-the-badge" alt="Get in touch" /></a>
+</p>
