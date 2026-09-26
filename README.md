@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://federicodiluca.github.io" target="_blank">
-    <img align="center" src="https://federicodiluca.github.io/favicon.svg" height="30" width="30" alt="personal website" />
+  <a href="https://federicodiluca.com" target="_blank">
+    <img align="center" src="https://federicodiluca.com/favicon.svg" height="30" width="30" alt="personal website" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/federico-di-luca-ing/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin" />
@@ -21,8 +21,8 @@
   <!--
   <br/>
   <br/>Play Vocabe!<br/>
-  <a href="https://federicodiluca.github.io/vocabe" target="_blank">
-    <img align="center" src="https://federicodiluca.github.io/vocabe/favicon.svg" height="30" width="30" alt="vocabe" />
+  <a href="https://vocabe.federicodiluca.com/" target="_blank">
+    <img align="center" src="https://vocabe.federicodiluca.com/favicon.svg" height="30" width="30" alt="vocabe" />
   </a>
   -->
 </p>
@@ -66,28 +66,28 @@ Free and open source tools, born from a real need and polished until they could 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <img src="https://federicodiluca.github.io/projects/vocabe.svg" width="48" height="48" alt="Vocabe" /><br/>
-      <b><a href="https://federicodiluca.github.io/vocabe/">Vocabe</a></b><br/>
+      <img src="https://federicodiluca.com/projects/vocabe.svg" width="48" height="48" alt="Vocabe" /><br/>
+      <b><a href="https://vocabe.federicodiluca.com/">Vocabe</a></b><br/>
       <i>One Italian word a day</i><br/><br/>
       Grow your Italian vocabulary with a daily word, its meaning, examples and etymology, plus spaced-repetition review. Offline, no account, no server.<br/><br/>
       <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
-      <a href="https://federicodiluca.github.io/vocabe/">Play</a> · <a href="https://github.com/federicodiluca/Vocabe">Code</a>
+      <a href="https://vocabe.federicodiluca.com/">Play</a> · <a href="https://github.com/federicodiluca/Vocabe">Code</a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://federicodiluca.github.io/projects/school-feed-monitor.svg" width="48" height="48" alt="School Feed Monitor" /><br/>
-      <b><a href="https://federicodiluca.github.io/school-feed-monitor/">School Feed Monitor</a></b><br/>
+      <img src="https://federicodiluca.com/projects/school-feed-monitor.svg" width="48" height="48" alt="School Feed Monitor" /><br/>
+      <b><a href="https://schoolfeedmonitor.federicodiluca.com/">School Feed Monitor</a></b><br/>
       <i>Italian school notices, on Telegram</i><br/><br/>
       Monitors USR, USP and MIM websites and feeds, delivering keyword alerts and daily digests on Telegram. Self-hosted, with per-user sources.<br/><br/>
       <img src="https://img.shields.io/badge/Python-0d0b1f?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/SQLite-0d0b1f?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Telegram-0d0b1f?style=flat-square&logo=telegram" /><br/><br/>
-      <a href="https://federicodiluca.github.io/school-feed-monitor/">Discover</a> · <a href="https://github.com/federicodiluca/school-feed-monitor">Code</a>
+      <a href="https://schoolfeedmonitor.federicodiluca.com/">Discover</a> · <a href="https://github.com/federicodiluca/school-feed-monitor">Code</a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://federicodiluca.github.io/projects/la-scimmia-vince.svg" width="48" height="48" alt="La Scimmia Vince" /><br/>
-      <b><a href="https://federicodiluca.github.io/la-scimmia-vince/">La Scimmia Vince</a></b><br/>
+      <img src="https://federicodiluca.com/projects/la-scimmia-vince.svg" width="48" height="48" alt="La Scimmia Vince" /><br/>
+      <b><a href="https://lascimmiavince.federicodiluca.com/">La Scimmia Vince</a></b><br/>
       <i>Honest SuperEnalotto statistics</i><br/><br/>
       Every draw since 1997, put to real statistical tests. The verdict never changes: chance has no memory, and a random monkey does as well as any "strategy".<br/><br/>
       <img src="https://img.shields.io/badge/pandas-0d0b1f?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-0d0b1f?style=flat-square&logo=scipy" /> <img src="https://img.shields.io/badge/Astro-0d0b1f?style=flat-square&logo=astro" /><br/><br/>
-      <a href="https://federicodiluca.github.io/la-scimmia-vince/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
+      <a href="https://lascimmiavince.federicodiluca.com/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
     </td>
   </tr>
 </table>
@@ -150,5 +150,5 @@ Free and open source tools, born from a real need and polished until they could 
 <p align="center">
   <b>Ready to work together?</b><br/>
   Whether you need software development, technical consulting or training, I'm available for project-based collaborations.<br/><br/>
-  <a href="https://federicodiluca.github.io/en/contact/"><img src="https://img.shields.io/badge/Get_in_touch-8b5cf6?style=for-the-badge" alt="Get in touch" /></a>
+  <a href="https://federicodiluca.com/en/contact/"><img src="https://img.shields.io/badge/Get_in_touch-8b5cf6?style=for-the-badge" alt="Get in touch" /></a>
 </p>
