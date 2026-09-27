@@ -37,25 +37,10 @@ Today I combine technical expertise with a strong passion for **education**: I t
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/cap.svg" width="40" /><br/><b>110 cum laude</b><br/>MSc in Electronic &amp; Telecommunications Engineering, Bologna</td>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/radar.svg" width="40" /><br/><b>Research</b><br/>Human detection with UWB radar, published in MDPI Sensors</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/team.svg" width="40" /><br/><b>Technical Leader</b><br/>Leading .NET development teams</td>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/board.svg" width="40" /><br/><b>Teacher</b><br/>Computer Science in high school, since 2024</td>
-  </tr>
-</table>
-
-<h2><img src="./assets/icons/sparkle.svg" height="32" align="absmiddle" />&nbsp;&nbsp;What I do</h2>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/code.svg" width="40" /><br/><b>Software Development</b><br/>Backend architecture, web applications, system design and technical consulting for startups and established companies.</td>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/cap.svg" width="40" /><br/><b>Technical Training</b><br/>Programming courses, computer science education and team upskilling in modern technologies and best practices.</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/factory.svg" width="40" /><br/><b>Industrial Automation</b><br/>SCADA systems, PLC programming and automation solutions for manufacturing and warehouse management.</td>
-    <td align="center" valign="top" width="50%"><img src="./assets/icons/neural.svg" width="40" /><br/><b>Machine Learning</b><br/>ML models for classification, regression and predictive analytics. Research and development support.</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/cap.svg" width="40" /><br/><b>110 cum laude</b><br/>MSc in Electronic &amp; Telecommunications Engineering, Bologna</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/radar.svg" width="40" /><br/><b>Research</b><br/>Human detection with UWB radar, published in MDPI Sensors</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/team.svg" width="40" /><br/><b>Technical Leader</b><br/>Leading .NET development teams</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/board.svg" width="40" /><br/><b>Teacher</b><br/>Computer Science in high school, since 2024</td>
   </tr>
 </table>
 
@@ -89,6 +74,17 @@ Free and open source tools, born from a real need and polished until they could 
       <img src="https://img.shields.io/badge/pandas-0d0b1f?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-0d0b1f?style=flat-square&logo=scipy" /> <img src="https://img.shields.io/badge/Astro-0d0b1f?style=flat-square&logo=astro" /><br/><br/>
       <a href="https://lascimmiavince.federicodiluca.com/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
     </td>
+  </tr>
+</table>
+
+<h2><img src="./assets/icons/sparkle.svg" height="32" align="absmiddle" />&nbsp;&nbsp;What I do</h2>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/code.svg" width="40" /><br/><b>Software Development</b><br/>Backend, web apps, system design and technical consulting</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/book.svg" width="40" /><br/><b>Technical Training</b><br/>Programming courses and team upskilling on modern tech</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/factory.svg" width="40" /><br/><b>Industrial Automation</b><br/>SCADA, PLC programming and warehouse automation</td>
+    <td align="center" valign="top" width="25%"><img src="./assets/icons/neural.svg" width="40" /><br/><b>Machine Learning</b><br/>Classification, regression and predictive models</td>
   </tr>
 </table>
 
