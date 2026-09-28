@@ -50,7 +50,7 @@ Free and open source tools, born from a real need and polished until they could 
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <img src="https://federicodiluca.com/projects/vocabe.svg" width="48" height="48" alt="Vocabe" /><br/>
       <b><a href="https://vocabe.federicodiluca.com/">Vocabe</a></b><br/>
       <i>One Italian word a day</i><br/><br/>
@@ -58,7 +58,7 @@ Free and open source tools, born from a real need and polished until they could 
       <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
       <a href="https://vocabe.federicodiluca.com/">Play</a> · <a href="https://github.com/federicodiluca/Vocabe">Code</a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <img src="https://federicodiluca.com/projects/school-feed-monitor.svg" width="48" height="48" alt="School Feed Monitor" /><br/>
       <b><a href="https://schoolfeedmonitor.federicodiluca.com/">School Feed Monitor</a></b><br/>
       <i>Italian school notices, on Telegram</i><br/><br/>
@@ -66,13 +66,23 @@ Free and open source tools, born from a real need and polished until they could 
       <img src="https://img.shields.io/badge/Python-0d0b1f?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/SQLite-0d0b1f?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Telegram-0d0b1f?style=flat-square&logo=telegram" /><br/><br/>
       <a href="https://schoolfeedmonitor.federicodiluca.com/">Discover</a> · <a href="https://github.com/federicodiluca/school-feed-monitor">Code</a>
     </td>
-    <td valign="top" width="33%">
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <img src="https://federicodiluca.com/projects/la-scimmia-vince.svg" width="48" height="48" alt="La Scimmia Vince" /><br/>
       <b><a href="https://lascimmiavince.federicodiluca.com/">La Scimmia Vince</a></b><br/>
       <i>Honest SuperEnalotto statistics</i><br/><br/>
       Every draw since 1997, put to real statistical tests. The verdict never changes: chance has no memory, and a random monkey does as well as any "strategy".<br/><br/>
       <img src="https://img.shields.io/badge/pandas-0d0b1f?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-0d0b1f?style=flat-square&logo=scipy" /> <img src="https://img.shields.io/badge/Astro-0d0b1f?style=flat-square&logo=astro" /><br/><br/>
       <a href="https://lascimmiavince.federicodiluca.com/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://federicodiluca.com/projects/duetrack.svg" width="48" height="48" alt="Duetrack" /><br/>
+      <b><a href="https://duetrack.federicodiluca.com/">Duetrack</a></b><br/>
+      <i>Who owes you what, read from your Google Calendar</i><br/><br/>
+      For anyone who bills by the hour and logs every appointment: reads calendar events, works out what each client owes from duration and hourly rate, and tracks payments one session at a time or in blocks. No server: calendar is read-only, data lives on your Google Drive.<br/><br/>
+      <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/Google_Calendar-0d0b1f?style=flat-square&logo=googlecalendar" /><br/><br/>
+      <a href="https://duetrack.federicodiluca.com/">Try it</a> · <a href="https://github.com/federicodiluca/duetrack">Code</a>
     </td>
   </tr>
 </table>
