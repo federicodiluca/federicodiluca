@@ -50,39 +50,55 @@ Free and open source tools, born from a real need and polished until they could 
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <img src="https://federicodiluca.com/projects/vocabe.svg" width="48" height="48" alt="Vocabe" /><br/>
       <b><a href="https://vocabe.federicodiluca.com/">Vocabe</a></b><br/>
       <i>One Italian word a day</i><br/><br/>
-      Grow your Italian vocabulary with a daily word, its meaning, examples and etymology, plus spaced-repetition review. Offline, no account, no server.<br/><br/>
+      A daily word with meaning, examples and etymology, plus spaced-repetition review. Offline, no account.<br/><br/>
       <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
       <a href="https://vocabe.federicodiluca.com/">Play</a> · <a href="https://github.com/federicodiluca/Vocabe">Code</a>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <img src="https://federicodiluca.com/projects/school-feed-monitor.svg" width="48" height="48" alt="School Feed Monitor" /><br/>
       <b><a href="https://schoolfeedmonitor.federicodiluca.com/">School Feed Monitor</a></b><br/>
       <i>Italian school notices, on Telegram</i><br/><br/>
-      Monitors USR, USP and MIM websites and feeds, delivering keyword alerts and daily digests on Telegram. Self-hosted, with per-user sources.<br/><br/>
+      Watches USR, USP and MIM websites and feeds, sending keyword alerts and daily digests. Self-hosted.<br/><br/>
       <img src="https://img.shields.io/badge/Python-0d0b1f?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/SQLite-0d0b1f?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Telegram-0d0b1f?style=flat-square&logo=telegram" /><br/><br/>
       <a href="https://schoolfeedmonitor.federicodiluca.com/">Discover</a> · <a href="https://github.com/federicodiluca/school-feed-monitor">Code</a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <img src="https://federicodiluca.com/projects/la-scimmia-vince.svg" width="48" height="48" alt="La Scimmia Vince" /><br/>
       <b><a href="https://lascimmiavince.federicodiluca.com/">La Scimmia Vince</a></b><br/>
       <i>Honest SuperEnalotto statistics</i><br/><br/>
-      Every draw since 1997, put to real statistical tests. The verdict never changes: chance has no memory, and a random monkey does as well as any "strategy".<br/><br/>
+      Every draw since 1997, put to real statistical tests. A random monkey does as well as any "strategy".<br/><br/>
       <img src="https://img.shields.io/badge/pandas-0d0b1f?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-0d0b1f?style=flat-square&logo=scipy" /> <img src="https://img.shields.io/badge/Astro-0d0b1f?style=flat-square&logo=astro" /><br/><br/>
       <a href="https://lascimmiavince.federicodiluca.com/">See stats</a> · <a href="https://github.com/federicodiluca/la-scimmia-vince">Code</a>
     </td>
-    <td valign="top" width="50%">
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
       <img src="https://federicodiluca.com/projects/duetrack.svg" width="48" height="48" alt="Duetrack" /><br/>
       <b><a href="https://duetrack.federicodiluca.com/">Duetrack</a></b><br/>
-      <i>Who owes you what, read from your Google Calendar</i><br/><br/>
-      For anyone who bills by the hour and logs every appointment: reads calendar events, works out what each client owes from duration and hourly rate, and tracks payments one session at a time or in blocks. No server: calendar is read-only, data lives on your Google Drive.<br/><br/>
+      <i>Who owes you what, from your calendar</i><br/><br/>
+      Turns Google Calendar appointments into what each client owes, and tracks payments. For hourly work.<br/><br/>
       <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/Google_Calendar-0d0b1f?style=flat-square&logo=googlecalendar" /><br/><br/>
       <a href="https://duetrack.federicodiluca.com/">Try it</a> · <a href="https://github.com/federicodiluca/duetrack">Code</a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://listo.federicodiluca.com/favicon.svg" width="48" height="48" alt="Listo" /><br/>
+      <b><a href="https://listo.federicodiluca.com/">Listo</a></b><br/>
+      <i>Lists where items fit many categories</i><br/><br/>
+      Custom lists and fields, with expiry dates for freezer, pantry and more. Local-first, optional Drive sync.<br/><br/>
+      <img src="https://img.shields.io/badge/Svelte-0d0b1f?style=flat-square&logo=svelte" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
+      <a href="https://listo.federicodiluca.com/">Try it</a> · <a href="https://github.com/federicodiluca/listo">Code</a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://profclick.federicodiluca.com/favicon.svg" width="48" height="48" alt="ProfClick" /><br/>
+      <b><a href="https://profclick.federicodiluca.com/">ProfClick</a></b><br/>
+      <i>A teacher's plan, lesson by lesson</i><br/><br/>
+      From timetable and syllabus to every lesson of the year, with tests placed where the grades are needed.<br/><br/>
+      <img src="https://img.shields.io/badge/React-0d0b1f?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-0d0b1f?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-0d0b1f?style=flat-square&logo=pwa" /><br/><br/>
+      <a href="https://profclick.federicodiluca.com/">Try it</a> · <a href="https://github.com/federicodiluca/profclick">Code</a>
     </td>
   </tr>
 </table>
